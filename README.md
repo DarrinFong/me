@@ -1,4 +1,4 @@
-### Hi guys 👋, Darrin here.
+### Hi guys 👋, Darrin here. :computer: :bicyclist: :swimmer: :ski: :snowboarder: :tent: :motorcycle:
 
 ### _My Coding Projects_
 - [Virtual Modeller](https://capstone-projects-491.firebaseapp.com/project/ldoLtFn2sw) (Capstone) is a 3D modelling software using the LeapMotion sensor in Unity.
