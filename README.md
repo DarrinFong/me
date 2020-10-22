@@ -6,7 +6,7 @@
 - [MotionLab](https://github.com/jacobrs/vr_hackharvard2015) is an educational app that allows students to immerse themselves with a 3d model (for example, a brain) label it and interact with it. [Detailed descriptions](https://devpost.com/software/motionlab)
 - [Virtual Optics](https://github.com/ttogola/VirtualOptics) is a 2D optics physics simulator.
 - [BringIt](https://github.com/jacobrs/BringIt) allows people to ask that regular items be brought to them at a certain price. It is a sort of Uber for things.
-- [Eat-IDK](https://devpost.com/software/eat-idk) is a decision maker for the undecisive... or adventurous gastronomer.
+- [Eat@IDK](https://devpost.com/software/eat-idk) is a decision maker for the undecisive... or adventurous gastronomer.
 - [Lazy-wake](https://github.com/DarrinFong/LazyWake) inspired by how, as a student we often are tired or wake up late and forget important stuff (ex: lunch, brushing teeth etc.). This app will help the user manage his time in function of various task with approximate execution time and according to priority, the app will skip the lowest task priority in order to arrive on time. [Detailed descriptions](https://devpost.com/software/lazy-wake)
 - [Textit](https://devpost.com/software/textit) Use sms to acquire any information, using sms as data. SMS powered Google searches with keyworded features (maps, translation).
 
