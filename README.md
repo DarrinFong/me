@@ -16,7 +16,7 @@
 - [CSME National competition 2016 - 1st place](https://www.youtube.com/watch?v=GPxew05Movo)
 
 ### _Open source work_
-- [Boutiques](https://github.com/DarrinFong/boutiques) is a cross-platform descriptive command-line framework for applications.
+- [Boutiques](https://github.com/boutiques/boutiques/tree/master) is a cross-platform descriptive command-line framework for applications. I worked as reasearch assistant under the supervision of Dr. Tristan Glatard at Concordia University.
 
 ### _InClass projects_
 - [Risk Game](https://github.com/jacobrs/cli-risk-game) is an "Advanced Program Design with C++" class project to develop a risk game clone.
