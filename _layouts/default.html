@@ -16,7 +16,7 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
         
-        {% if site.logo %}
+        {% if site.profile %}
           <img src="{{site.profile | relative_url}}" alt="Logo" />
         {% endif %}
 
@@ -31,7 +31,7 @@
 
         {% if site.show_cv %}
         <ul class="downloads">
-          <li><a href="{{ site.cv_dl_link }}">Download <strong>CV</strong></a></li>
+          <a href="{{ site.cv_dl_link }}">Download my CV</a>
         </ul>
         {% endif %}
       </header>
@@ -42,7 +42,7 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>This page is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
