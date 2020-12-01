@@ -1,10 +1,3 @@
-# Hello 👋, Darrin here.
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/darrinfong)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/darrinfong)
-&nbsp;
-[<img src="https://cdn.iconscout.com/icon/free/png-256/dev-post-555431.png" width="18" height="18"/>Devpost](https://devpost.com/darrinfong?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-
 ### _My Coding Projects_
 - [MotionLab](https://github.com/jacobrs/vr_hackharvard2015) is an educational app that allows students to immerse themselves with a 3d model (for example, a brain) label it and interact with it. Detailed descriptions [here](https://devpost.com/software/motionlab).
 - [Virtual Modeler](https://capstone-projects-491.firebaseapp.com/project/ldoLtFn2sw) (Capstone) is a 3D modelling software using the LeapMotion sensor in Unity.
