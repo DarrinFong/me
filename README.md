@@ -1,5 +1,5 @@
 ### _My Coding Projects_
-- [Virtual Modeler](https://capstone-projects-491.firebaseapp.com/project/ldoLtFn2sw) (Capstone) is a 3D modelling software using the LeapMotion sensor in Unity.
+- [Virtual Modeler](https://github.com/LHuss/capstone) ([Capstone presentation page](https://capstone-projects-491.firebaseapp.com/project/ldoLtFn2sw)) is a 3D modelling software using the LeapMotion sensor in Unity. 
 - [Virtual Optics](https://github.com/ttogola/VirtualOptics) is a 2D optics physics simulator.
 
 ### _Open source work_
