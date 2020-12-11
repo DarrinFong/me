@@ -1,5 +1,5 @@
 ### _My Coding Projects_
-- [Backend Template](https://github.com/DarrinFong/backend_template) is a pet project that lets me learn Go.
+- [Backend Template](https://github.com/DarrinFong/backend_template) is a basic Golang REST server that teaches me the basics of Go.
 - [Virtual Modeler](https://github.com/LHuss/capstone) ([Capstone presentation page](https://capstone-projects-491.firebaseapp.com/project/ldoLtFn2sw)) is a 3D modelling software using the LeapMotion sensor in Unity. 
 - [Virtual Optics](https://github.com/ttogola/VirtualOptics) is a 2D optics physics simulator.
 
